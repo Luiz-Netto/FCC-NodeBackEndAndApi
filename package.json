@@ -7,6 +7,7 @@
 	"description": "This project is a part of the https://www.freecodecamp.org/ course on back-end and Api's using nodeJs.",
 	"keywords": [ "NodeJs", "API", "Study", "freecodecamp" ],
 	"license": "MIT",
+	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
